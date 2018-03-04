@@ -45,5 +45,5 @@ Code for [A Framework for Unsupervised Online Human Reaching Motion Recognition 
 
 2. The matlab code is based on Incremental EM algorithm, GMM learning, GMR from Sylvain Calinon. Please refer to http://programming-by-demonstration.org/sourcecodes.php
 =======
-# synthetic_data_generation
->>>>>>> 0deebb6e9353f974ab0af615f97f5e4855ea2715
+
+REF: https://github.com/WPI-ARC/unsupervised_online_reaching_prediction
